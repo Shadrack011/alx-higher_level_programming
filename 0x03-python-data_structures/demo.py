@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-number = 98
-print("{} Battery street".format(number))
-
+name = input("What is your name: ")
+age = input("What is your age: ")
+print("Hello {} you are {} years old".format(name,age))
